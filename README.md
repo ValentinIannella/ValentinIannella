@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a Systems student with a strong interest in software development.
+I am a Systems student with a strong interest in software development and artificial intelligence
 
 I have experience building web applications using HTML, CSS, and JavaScript, as well as programming in Java.
 
